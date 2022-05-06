@@ -54,7 +54,7 @@ return [
 
     'url' => env('APP_URL', 'http://miniprojectmhss.ignorelist.com'),
 
-    'asset_url' => env('ASSET_URL', 'https://github.com/coderboy217/miniproject'),
+    'asset_url' => env('ASSET_URL', 'http://miniprojectmhss.ignorelist.com'),
 
     /*
     |--------------------------------------------------------------------------
