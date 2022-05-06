@@ -10,16 +10,16 @@
     <title>Advocate | Login </title>
 
     <!-- Bootstrap -->
-    <link href="{{asset('/assets/admin/vendors/bootstrap/dist/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{asset('/assets/admin/vendors/bootstrap/dist/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" media="all">
     <!-- Font Awesome -->
-    <link href="{{asset('/assets/admin/vendors/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{asset('/assets/admin/vendors/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css" media="all">
     <!-- NProgress -->
-    <link href="{{asset('/assets/admin/vendors/nprogress/nprogress.css') }}" rel="stylesheet">
+    <link href="{{asset('/assets/admin/vendors/nprogress/nprogress.css') }}" rel="stylesheet" type="text/css" media="all">
     <!-- Animate.css -->
-    <link href="{{asset('/assets/admin/vendors/animate.css/animate.min.css') }}" rel="stylesheet">
+    <link href="{{asset('/assets/admin/vendors/animate.css/animate.min.css') }}" rel="stylesheet" type="text/css" media="all">
 
     <!-- Custom Theme Style -->
-    <link href="{{asset('/assets/admin/build/css/custom.min.css') }}" rel="stylesheet">
+    <link href="{{asset('/assets/admin/build/css/custom.min.css') }}" rel="stylesheet" type="text/css" media="all">
   </head>
 
   <body class="login">
