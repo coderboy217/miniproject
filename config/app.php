@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://miniprojectmhss.ignorelist.com'),
+    'url' => env('APP_URL', 'http://loacalhost'),
 
-    'asset_url' => env('ASSET_URL', 'http://miniprojectmhss.ignorelist.com'),
+    'asset_url' => env('ASSET_URL', 'http://loacalhost'),
 
     /*
     |--------------------------------------------------------------------------
